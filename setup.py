@@ -10,7 +10,7 @@ setup(
         license          = __license__,
         author           = __author__,
         author_email     = 'junion@junion.org',
-        url              = 'https://github.com/dmaekawa/new-project1/tree/python_test',
+        url              = 'https://github.com/dmaekawa/new-project1,
         keywords         = 'sample pip github python',
         packages         = find_packages(),
         install_requires = [],
