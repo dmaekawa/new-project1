@@ -5,5 +5,4 @@ GithubにPythonのライブラリをあげてpipでインストールするサ�
 Installation
 ------------
 ```bash
-$ sudo pip install git+https://github.com/junion-org/pip_github_test.git
-
+$ sudo https://github.com/dmaekawa/new-project1/tree/python_test.git
